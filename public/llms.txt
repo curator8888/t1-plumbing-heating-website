@@ -1,0 +1,40 @@
+# T1 Plumbing & Heating Services Ltd
+
+> Local, family-run plumbing and heating specialists based in Swadlincote, Derbyshire. We serve homes, landlords, and businesses across Derbyshire and Northwest Leicestershire with reliable, professional service — from dripping taps to full HMO conversions.
+
+## Contact
+
+- **Phone:** 07886 157572 ([Call Now](tel:07886157572))
+- **Email:** t1plumbinghs@gmail.com ([Email Us](mailto:t1plumbinghs@gmail.com))
+- **Address:** Swadlincote, Derbyshire, DE11 9PQ
+- **Hours:** 24/7 emergency call-outs available
+
+## Services
+
+- **HMO Conversions** — Full plumbing & heating fit-outs for HMO landlords, compliant, on-time, and on-budget.
+- **Bathroom Installations** — Bespoke bathroom installs from first fix to final tile, finished to a high standard.
+- **General Plumbing** — Leaks, taps, toilets, kitchens — everyday plumbing done right, first time.
+- **Heating & Boilers** — Boiler servicing, repairs, replacements, and central heating upgrades.
+- **Emergency Call-Outs** — Burst pipes? No heating? Fast response across Derbyshire, 24/7.
+
+## Coverage Area
+
+Based in Swadlincote (DE11 9PQ), we work across South Derbyshire and surrounding Leicestershire villages and towns, including:
+Swadlincote, Burton-upon-Trent, Ashby-de-la-Zouch, Derby, Castle Donington, Coalville, Melbourne, Repton, Woodville, Church Gresley, Measham, and Ticknall.
+
+## Why Choose T1
+
+- **Reliable** — We turn up when we say we will.
+- **Professional** — Clean, courteous, and fully insured.
+- **Local** — Based in Swadlincote, Derbyshire.
+- **Always Available** — 24/7 emergency response.
+- **Highly Rated** — 94% recommended on Facebook (12 reviews).
+
+## Site Structure
+
+This is a single-page website with the following sections:
+
+- [Home](/) — Hero, services overview, why choose T1, coverage area, customer reviews, and contact form.
+- [Services](#services) — Full breakdown of plumbing and heating services offered.
+- [Coverage](#coverage) — Service area map and list of towns covered.
+- [Contact](#contact) — Contact details and enquiry form.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://derby-plumb-pros.lovable.app/sitemap.xml
